@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pratik | Personal Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Hello, I'm Pratik 👋</h1>
+        <p>Student | Aspiring Scientist | Learner</p>
+    </header>
+
+    <section class="about">
+        <h2>About Me</h2>
+        <p>
+            I am a student interested in science, technology, and research.
+            This website is hosted using GitHub Pages.
+        </p>
+    </section>
+
+    <section class="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Biotechnology</li>
+            <li>Basic Programming</li>
+            <li>Research & Presentation</li>
+        </ul>
+    </section>
+
+    <section class="contact">
+        <h2>Contact</h2>
+        <p>Email: yourname@email.com</p>
+        <p>LinkedIn: linkedin.com/in/yourprofile</p>
+    </section>
+
+    <footer>
+        <p>© 2026 Pratik | Made with ❤️</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
